@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T06:27:46Z",
-  "count": 6,
+  "generated_at": "2026-08-22T06:37:17Z",
+  "count": 4,
   "matches": [
     {
       "title": "omega speedmaster",
@@ -13,18 +13,6 @@
       "resale_high": 2000,
       "max_bid": 440.0,
       "est_margin": 0.743
-    },
-    {
-      "title": "Orologio Uomo Omega Constellation Oro 14k 33,4mm 92,87g",
-      "condition": "Pre-owned - Good",
-      "url": "https://www.ebay.it/itm/267757924558?_skw=Omega&hash=item3e579db0ce:g:VXUAAeSwhs1qTokv",
-      "current_bid": 640.16,
-      "bid_count": 1,
-      "end_date": "2026-08-22T10:58:23Z",
-      "resale_low": 1800,
-      "resale_high": 3500,
-      "max_bid": 1155.0,
-      "est_margin": 0.636
     },
     {
       "title": "Per Omega Seamaster 300 Cronografo Coppia Di Pulsanti ",
@@ -61,30 +49,10 @@
       "resale_high": 3500,
       "max_bid": 1155.0,
       "est_margin": 0.815
-    },
-    {
-      "title": "OMEGA SEAMASTER DIVER 300 M DA DONNA ACCIAIO E ORO",
-      "condition": "Pre-owned - Good",
-      "url": "https://www.ebay.it/itm/137639879636?_skw=Omega&hash=item200bf9e3d4:g:V7MAAOSwZ1BnPUtI",
-      "current_bid": 684.99,
-      "bid_count": 0,
-      "end_date": "2026-08-22T16:11:23Z",
-      "resale_low": 1200,
-      "resale_high": 3800,
-      "max_bid": 765.0,
-      "est_margin": 0.417
     }
   ],
-  "unclassified_count": 23,
+  "unclassified_count": 18,
   "unclassified": [
-    {
-      "title": "Borsa di valore OMEGA WATCH GOLF nuova da OMEGA GOLF EVENT",
-      "condition": "New without box or papers",
-      "url": "https://www.ebay.it/itm/398294836169?_skw=Omega&hash=item5cbc38e3c9:g:GIIAAeSwfc9pxtV9",
-      "current_bid": 38.53,
-      "bid_count": 0,
-      "end_date": "2026-08-22T06:34:40Z"
-    },
     {
       "title": "Oméga Mouvement de montre Mécanique femme ancienne ",
       "condition": "Occasion - Bon état",
@@ -142,14 +110,6 @@
       "end_date": "2026-08-22T10:31:54Z"
     },
     {
-      "title": "Reloj  Omega Plata Macizo 925",
-      "condition": "De segunda mano - Bueno",
-      "url": "https://www.ebay.it/itm/168615451097?_skw=Omega&hash=item27424399d9:g:rQoAAOSwx7RnmgOb",
-      "current_bid": 125.0,
-      "bid_count": 0,
-      "end_date": "2026-08-22T10:34:31Z"
-    },
-    {
       "title": "RARE OMEGA  ANNEES 40  PLAQUE OR 40 MICRONS + BOITE CAL A IDENTIFIER",
       "condition": "Occasion - Très bon état",
       "url": "https://www.ebay.it/itm/227472819480?_skw=Omega&hash=item34f66fc518:g:EuYAAeSwEFNqaiwS",
@@ -182,14 +142,6 @@
       "end_date": "2026-08-22T11:10:42Z"
     },
     {
-      "title": "Quadrante Omega",
-      "condition": "Usato - Buono",
-      "url": "https://www.ebay.it/itm/267754849027?_skw=Omega&hash=item3e576ec303:g:t~EAAeSw6eZqDpg~",
-      "current_bid": 250.0,
-      "bid_count": 0,
-      "end_date": "2026-08-22T11:15:42Z"
-    },
-    {
       "title": "OMEGA BROCHE",
       "condition": "Occasion - Très bon état",
       "url": "https://www.ebay.it/itm/407138654128?_skw=Omega&hash=item5ecb5ad7b0:g:omcAAeSwTVNpgQxy",
@@ -212,14 +164,6 @@
       "current_bid": 1057.85,
       "bid_count": 0,
       "end_date": "2026-08-22T12:51:43Z"
-    },
-    {
-      "title": "Reloj Omega Ranchero Oro 14k  Referencia 2990-1.",
-      "condition": "De segunda mano - Excelente",
-      "url": "https://www.ebay.it/itm/168615693669?_skw=Omega&hash=item2742474d65:g:t9gAAeSwzZJqKHLa",
-      "current_bid": 1850.0,
-      "bid_count": 0,
-      "end_date": "2026-08-22T13:04:14Z"
     },
     {
       "title": "Omega Regulator antico 1916-1923 svizzero incredibile art deco argento orologio regolatore",
@@ -252,14 +196,6 @@
       "current_bid": 261.16,
       "bid_count": 3,
       "end_date": "2026-08-22T16:15:45Z"
-    },
-    {
-      "title": "Cassa Originale Omega Megaquartz 32 Hz Completa",
-      "condition": "Usato - Eccellente",
-      "url": "https://www.ebay.it/itm/318734755367?_skw=Omega&hash=item4a36126627:g:bTgAAeSw8fBqW6j9",
-      "current_bid": 100.0,
-      "bid_count": 0,
-      "end_date": "2026-08-22T16:29:51Z"
     }
   ]
 }
