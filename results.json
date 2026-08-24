@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:21:25Z",
+  "generated_at": "2026-08-24T06:41:43Z",
   "count": 2,
   "matches": [
     {
@@ -29,14 +29,6 @@
   ],
   "unclassified_count": 18,
   "unclassified": [
-    {
-      "title": "Omega Chronostop - 145.010 - \"Modello Driver\"",
-      "condition": "Pre-owned - Good",
-      "url": "https://www.ebay.it/itm/278288527554?_skw=Omega&hash=item40cb49f0c2:g:BbcAAOSwXzNmMIqV",
-      "current_bid": 1198.72,
-      "bid_count": 0,
-      "end_date": "2026-08-24T06:31:22Z"
-    },
     {
       "title": "oméga Mouvement de montre Mécanique femme ancienne ",
       "condition": "Occasion - Bon état",
@@ -172,6 +164,14 @@
       "current_bid": 188.8,
       "bid_count": 34,
       "end_date": "2026-08-24T15:54:00Z"
+    },
+    {
+      "title": "Montre femme OMEGA vintage",
+      "condition": "Occasion - Très bon état",
+      "url": "https://www.ebay.it/itm/198577837250?_skw=Omega&hash=item2e3c2954c2:g:5~8AAeSw73lp9ej7",
+      "current_bid": 300.0,
+      "bid_count": 0,
+      "end_date": "2026-08-24T17:21:56Z"
     }
   ]
 }
