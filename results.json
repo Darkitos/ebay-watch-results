@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T06:21:48Z",
-  "count": 4,
+  "generated_at": "2026-08-30T11:00:13Z",
+  "count": 5,
   "matches": [
     {
       "title": "Omega De Ville, orologio da donna, automatico. Cal 661, perfettamente funzionante.",
@@ -49,50 +49,22 @@
       "resale_high": 2000,
       "max_bid": 440.0,
       "est_margin": 0.957
+    },
+    {
+      "title": "Orologio Uomo Omega Constellation C-Line Cronometro Automatico Gerald Genta",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/336757537655?_skw=Omega&hash=item4e68503b77:g:cHgAAeSwdy9qizPq",
+      "current_bid": 506.69,
+      "bid_count": 25,
+      "end_date": "2026-08-30T18:04:25Z",
+      "resale_low": 1800,
+      "resale_high": 3500,
+      "max_bid": 1155.0,
+      "est_margin": 0.71
     }
   ],
-  "unclassified_count": 14,
+  "unclassified_count": 11,
   "unclassified": [
-    {
-      "title": "RELOJ OMEGA SPEEDMASTER PROFESSIONAL MARK II CAL.861 REF.145.014 AÑO 1970.",
-      "condition": "De segunda mano - Aceptable",
-      "url": "https://www.ebay.it/itm/206505200521?_skw=Omega&hash=item3014ab4b89:g:Bj8AAeSwdIlpHaXn",
-      "current_bid": 2400.0,
-      "bid_count": 0,
-      "end_date": "2026-08-30T07:21:24Z"
-    },
-    {
-      "title": "Orologio automatico Omega Apua Terra Tokyo 2020 edizione limitata 522.12.41.21.03.001,",
-      "condition": "Neu mit Karton und Unterlagen",
-      "url": "https://www.ebay.it/itm/237024914480?_skw=Omega&hash=item372fc92c30:g:-F8AAeSwkNxqeEyB",
-      "current_bid": 5000.0,
-      "bid_count": 0,
-      "end_date": "2026-08-30T10:05:38Z"
-    },
-    {
-      "title": "Libretto Omega Libretto Omega",
-      "condition": "Nuovo senza scatola o documenti",
-      "url": "https://www.ebay.it/itm/257697509348?_skw=Omega&hash=item3bfff7efe4:g:UyYAAeSw6z9p9exh",
-      "current_bid": 30.0,
-      "bid_count": 0,
-      "end_date": "2026-08-30T10:31:32Z"
-    },
-    {
-      "title": "Libretto Omega Libretto Omega",
-      "condition": "Nuovo senza scatola o documenti",
-      "url": "https://www.ebay.it/itm/257697511285?_skw=Omega&hash=item3bfff7f775:g:mDAAAeSw77xp9euk",
-      "current_bid": 30.0,
-      "bid_count": 0,
-      "end_date": "2026-08-30T10:33:17Z"
-    },
-    {
-      "title": "Libretto Omega Libretto Omega",
-      "condition": "Nuovo senza scatola o documenti",
-      "url": "https://www.ebay.it/itm/257697511647?_skw=Omega&hash=item3bfff7f8df:g:R24AAeSwcIBp9epU",
-      "current_bid": 30.0,
-      "bid_count": 0,
-      "end_date": "2026-08-30T10:33:41Z"
-    },
     {
       "title": "Reloj Omega Speedsonic Lobster(CAJA)",
       "condition": "De segunda mano - Aceptable",
@@ -145,8 +117,8 @@
       "title": "Orologio da polso Omega T Vintage Gents carica manuale art deco funzionante, tiene il tempo",
       "condition": "Pre-owned - Fair",
       "url": "https://www.ebay.it/itm/257685656468?_skw=Omega&hash=item3bff431394:g:cZAAAeSwWihqhZs7",
-      "current_bid": 121.53,
-      "bid_count": 27,
+      "current_bid": 147.24,
+      "bid_count": 28,
       "end_date": "2026-08-30T17:23:01Z"
     },
     {
@@ -164,6 +136,22 @@
       "current_bid": 15.0,
       "bid_count": 0,
       "end_date": "2026-08-30T17:31:33Z"
+    },
+    {
+      "title": "Omega vintage anni 60 paraurti automatico",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/800552038904?_skw=Omega&hash=itemba649eb1f8:g:Bi0AAeSwww5qXQ6c",
+      "current_bid": 410.01,
+      "bid_count": 0,
+      "end_date": "2026-08-30T17:54:22Z"
+    },
+    {
+      "title": "Reloj Omega Montreal Albatros, Brida Batería, Junta De Estanqueidad, Rotor Defec",
+      "condition": "Nuevo con caja y documentación",
+      "url": "https://www.ebay.it/itm/168634012259?_skw=Omega&hash=item27435ed263:g:F7IAAeSw5qJpl07V",
+      "current_bid": 150.0,
+      "bid_count": 0,
+      "end_date": "2026-08-30T18:03:32Z"
     }
   ]
 }
