@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-09-01T06:22:13Z",
+  "generated_at": "2026-09-01T10:54:36Z",
   "count": 4,
   "matches": [
-    {
-      "title": "omega speedmaster",
-      "condition": "Nuovo senza scatola o documenti",
-      "url": "https://www.ebay.it/itm/278303423489?_skw=Omega&hash=item40cc2d3c01:g:YI4AAOSwdA5bRNRI",
-      "current_bid": 165.0,
-      "bid_count": 0,
-      "end_date": "2026-09-01T10:31:23Z",
-      "resale_low": 700,
-      "resale_high": 2000,
-      "max_bid": 440.0,
-      "est_margin": 0.743
-    },
     {
       "title": "Omega Constellation Automatic",
       "condition": "De segunda mano - Bueno",
@@ -49,26 +37,22 @@
       "resale_high": 3500,
       "max_bid": 1155.0,
       "est_margin": 0.418
+    },
+    {
+      "title": "Orologio Vintage Omega De Ville Donna Automatico Cal.562 24J Data Boxato Funzionante",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/307145855249?_skw=Omega&hash=item478351d111:g:0NgAAeSw1CBqHJN3",
+      "current_bid": 116.61,
+      "bid_count": 1,
+      "end_date": "2026-09-01T17:11:14Z",
+      "resale_low": 250,
+      "resale_high": 700,
+      "max_bid": 148.0,
+      "est_margin": 0.474
     }
   ],
-  "unclassified_count": 18,
+  "unclassified_count": 22,
   "unclassified": [
-    {
-      "title": "Borsa di valore OMEGA WATCH GOLF nuova da OMEGA GOLF EVENT",
-      "condition": "New without box or papers",
-      "url": "https://www.ebay.it/itm/398329157677?_skw=Omega&hash=item5cbe44982d:g:GIIAAeSwfc9pxtV9",
-      "current_bid": 38.73,
-      "bid_count": 0,
-      "end_date": "2026-09-01T06:37:23Z"
-    },
-    {
-      "title": "OMEGA  ploprof",
-      "condition": "Nuovo senza scatola o documenti",
-      "url": "https://www.ebay.it/itm/278303423450?_skw=Omega&hash=item40cc2d3bda:g:jVQAAeSwvQ9owpHp",
-      "current_bid": 280.0,
-      "bid_count": 0,
-      "end_date": "2026-09-01T10:31:22Z"
-    },
     {
       "title": "montre omega vintage femme",
       "condition": "Occasion - Très bon état",
@@ -90,7 +74,7 @@
       "condition": "Usato - Eccellente",
       "url": "https://www.ebay.it/itm/298614548931?_skw=Omega&hash=item4586d069c3:g:gksAAeSwLKlqgVz3",
       "current_bid": 99.0,
-      "bid_count": 0,
+      "bid_count": 1,
       "end_date": "2026-09-01T12:09:54Z"
     },
     {
@@ -196,6 +180,54 @@
       "current_bid": 35.0,
       "bid_count": 0,
       "end_date": "2026-09-01T17:02:04Z"
+    },
+    {
+      "title": "OROLOGIO DA POLSO VINTAGE UOMO OMEGA AUTOMATICO DATA ACCIAIO INOX ORO 10K RIEMPITO",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/336761165327?_skw=Omega&hash=item4e6887960f:g:m1wAAeSwfPFqjc93",
+      "current_bid": 174.3,
+      "bid_count": 29,
+      "end_date": "2026-09-01T17:23:09Z"
+    },
+    {
+      "title": "Omega Laco Aviator FLIEGER Luftwaffe Pilots WWII PIÙ RARO orologio svizzero vintage uomo",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/147521360801?_skw=Omega&hash=item2258f553a1:g:yrsAAeSwvqxotu89",
+      "current_bid": 1291.09,
+      "bid_count": 0,
+      "end_date": "2026-09-01T17:27:54Z"
+    },
+    {
+      "title": "Omega Joker carte da gioco antico 1908-1912 svizzero incredibile orologio argento art deco",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/147521360802?_skw=Omega&hash=item2258f553a2:g:ERAAAOSwrZpm782f",
+      "current_bid": 516.43,
+      "bid_count": 0,
+      "end_date": "2026-09-01T17:27:54Z"
+    },
+    {
+      "title": "Omega Laco Aviator RLM Reich Luftwaffe Ministeriale Seconda Guerra Mondiale Orologio Svizzero Vintage Uomo",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/147521360817?_skw=Omega&hash=item2258f553b1:g:5hwAAOSwRs1ntOB1",
+      "current_bid": 860.72,
+      "bid_count": 0,
+      "end_date": "2026-09-01T17:27:54Z"
+    },
+    {
+      "title": "Omega Laco Aviator RLM Reich Luftwaffe Ministeriale Seconda Guerra Mondiale Orologio Svizzero Vintage Uomo",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/147521360819?_skw=Omega&hash=item2258f553b3:g:UBAAAOSwk~9m7zKx",
+      "current_bid": 516.43,
+      "bid_count": 0,
+      "end_date": "2026-09-01T17:27:54Z"
+    },
+    {
+      "title": "Omega Elegante Antico 1895-1902 Svizzero Incredibile Art Deco Argento Orologio Uomo RICONDIZIONATO",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/147521360822?_skw=Omega&hash=item2258f553b6:g:5gEAAeSwk71qfD6X",
+      "current_bid": 516.43,
+      "bid_count": 0,
+      "end_date": "2026-09-01T17:27:54Z"
     }
   ]
 }
