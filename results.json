@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-09-03T06:24:37Z",
-  "count": 1,
-  "matches": [
-    {
-      "title": "Scatola Omega De Ville",
-      "condition": "Usato - Buono",
-      "url": "https://www.ebay.it/itm/227493414422?_skw=Omega&hash=item34f7aa0616:g:O30AAeSw46tqdDDk",
-      "current_bid": 99.0,
-      "bid_count": 0,
-      "end_date": "2026-09-03T07:06:15Z",
-      "resale_low": 400,
-      "resale_high": 1200,
-      "max_bid": 245.0,
-      "est_margin": 0.715
-    }
-  ],
-  "unclassified_count": 9,
+  "generated_at": "2026-09-03T10:30:06Z",
+  "count": 0,
+  "matches": [],
+  "unclassified_count": 15,
   "unclassified": [
     {
       "title": "Orologio Uomo Seeland Memento Mori Massonico Antico Svizzero Incredibile Art Deco Argento",
@@ -50,14 +37,6 @@
       "end_date": "2026-09-03T16:27:56Z"
     },
     {
-      "title": "Cassa Omega ",
-      "condition": "Usato - Buono",
-      "url": "https://www.ebay.it/itm/327329154239?_skw=Omega&hash=item4c365684bf:g:Po0AAeSwzbZqkGWC",
-      "current_bid": 49.0,
-      "bid_count": 0,
-      "end_date": "2026-09-03T16:28:30Z"
-    },
-    {
       "title": "Oméga Mouvement de montre Mécanique ancienne femme ",
       "condition": "Occasion - Bon état",
       "url": "https://www.ebay.it/itm/318787689282?_skw=Omega&hash=item4a393a1b42:g:M5IAAeSwc5lqbfqY",
@@ -88,6 +67,62 @@
       "current_bid": 35.0,
       "bid_count": 0,
       "end_date": "2026-09-03T17:43:44Z"
+    },
+    {
+      "title": "OMEGA STEEL CASE SUPER CLEAN AND SERVICED MID SIZE 1945",
+      "condition": "Seller refurbished",
+      "url": "https://www.ebay.it/itm/267766119903?_skw=Omega&hash=item3e581abddf:g:myUAAeSwZlJqVTLd",
+      "current_bid": 1028.67,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:04:37Z"
+    },
+    {
+      "title": "OMEGA GOLD FILLED CASE FIRST GENEREATION BUMPER SERVICED 1947",
+      "condition": "Seller refurbished",
+      "url": "https://www.ebay.it/itm/267766119910?_skw=Omega&hash=item3e581abde6:g:YVUAAeSwgsZqdIGi",
+      "current_bid": 1059.84,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:04:37Z"
+    },
+    {
+      "title": "PATRIA  TRENCH WATCH SERVICED SWISS MADE ALL ORIGINAL  1912",
+      "condition": "Seller refurbished",
+      "url": "https://www.ebay.it/itm/267766119914?_skw=Omega&hash=item3e581abdea:g:F~AAAeSw1pFpvvyg",
+      "current_bid": 498.75,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:04:37Z"
+    },
+    {
+      "title": "Montre Vintage OMEGA T17 Art Déco (1939) – Acier – Cadran « Fab. Suisse »",
+      "condition": "Occasion - Bon état",
+      "url": "https://www.ebay.it/itm/128047766632?_skw=Omega&hash=item1dd03ddc68:g:bh8AAeSwm6tqfggD",
+      "current_bid": 550.0,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:20:02Z"
+    },
+    {
+      "title": "Orologio Uomo Omega Oro Rosa 18kt Misura Jumbo 37,5mm Funzionante Perfettamente 51254",
+      "condition": "Pre-owned - Excellent",
+      "url": "https://www.ebay.it/itm/128047770455?_skw=Omega&hash=item1dd03deb57:g:3g8AAeSw2AdqVnK2",
+      "current_bid": 1449.77,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:25:13Z"
+    },
+    {
+      "title": "Omega Orologio Uomo ETA 255.411 Placcato Oro ",
+      "condition": "Vom Verkäufer generalüberholt",
+      "url": "https://www.ebay.it/itm/267770706113?_skw=Omega&hash=item3e5860b8c1:g:daIAAeSwhQNqXzbD",
+      "current_bid": 350.0,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:47:59Z"
+    },
+    {
+      "title": "Orologio automatico Omega USS vintage 1977 40 anni di servizio. FUNZIONANTE!!!!",
+      "condition": "Pre-owned - Good",
+      "url": "https://www.ebay.it/itm/128050945662?_skw=Omega&hash=item1dd06e5e7e:g:BCoAAeSwijdqjIxh",
+      "current_bid": 431.48,
+      "bid_count": 0,
+      "end_date": "2026-09-03T18:48:48Z"
     }
   ]
 }
